@@ -9,9 +9,9 @@ export default function Dashboard({ navigation }) {
   return (
     <Background>
       <Logo />
-      <Header>Let’s start</Header>
+      <Header>Vamos Começar</Header>
       <Paragraph>
-        vai deborah a gente fez sim :).
+        .
       </Paragraph>
       <Button
         mode="outlined"
